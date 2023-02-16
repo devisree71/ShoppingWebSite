@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(246, 171, 226);
+    
+}
+img{
+    text-align:center;
+}
+.bgimg{ 
+    background-image:url("https://th.bing.com/th/id/OIP.5SPJAnkBHZrMyCvhHJ41HgHaEo?pid=ImgDet&rs=1");
+    background-size:cover;
+}
+.bg-image{
+    background-image: url("https://images.pexels.com/photos/7130533/pexels-photo-7130533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+}
+img:active{
+    -ms-transform: scale(1.0);
+    -webkit-transform:scale(1.0);
+    transform:scale(1.5);
+}
