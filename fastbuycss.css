@@ -18,3 +18,9 @@ img:active{
     -webkit-transform:scale(1.0);
     transform:scale(1.5);
 }
+.imgg
+{
+    margin: 2rem;
+    width:15rem;
+    height:15rem;
+}
